@@ -1,11 +1,12 @@
 {
     "android": {
-      "latest_version": "1.0.0+3009367"
+      "latest_version": "1.0.0+3009373"
     },
     "ios": {
       "latest_build": "1.0.0+9378"
     }
   }
+
 
 
 
